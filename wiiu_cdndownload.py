@@ -23,6 +23,7 @@ app_categories = {
     '0000',  # application
     '0002',  # demo
     '000C',  # DLC
+    '000E',  # Update
 }
 
 tid = sys.argv[1].upper()
